@@ -1,3 +1,2 @@
-# hello-world
-A deposit where some resources are stored.
-lol
+# Introduction
+This is a list of useful websites and apps
